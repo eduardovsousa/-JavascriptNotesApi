@@ -11,7 +11,7 @@ Deployed on
 and
 [Mongodb-atlas](https://mongodb.com/atlas/database)
 
-##### [Demo](https://js-note-client.herokuapp.com/)
+Click [here](https://js-note-client.herokuapp.com/) to see a demo
 HOME                            |  Register                      | Login                     |  Notes                        | Settings
 :-------------------------------:|:-----------------------------:|:-------------------------:|:-----------------------------:|:-------------------------:
 ![](backgrounds/bg1.png)        |  ![](backgrounds/bg2.png)      | ![](backgrounds/bg3.png)  |  ![](backgrounds/bg4.png)     | ![](backgrounds/bg5.png)
